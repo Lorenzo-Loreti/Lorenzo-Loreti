@@ -32,7 +32,7 @@ My academic and project focus lies at the fascinating intersection of traditiona
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo Loreti&show_icons=true&theme=transparent&hide_border=true&title_color=0076A8&icon_color=0076A8&text_color=333333" alt="Lanci's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Loreti&show_icons=true&theme=transparent&hide_border=true&title_color=0076A8&icon_color=0076A8&text_color=333333" alt="Lanci's GitHub Stats" />
 </p>
 
 ---
