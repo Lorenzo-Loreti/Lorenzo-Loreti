@@ -45,6 +45,9 @@ I am always open to discussing dynamical systems, control algorithms, or sharing
   <a href="https://linkedin.com/in/lorenzo-loreti-87b57a1a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://instagram.com/call_me_lanci" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="mailto:lorenzo.loreti.eng@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
